@@ -1,4 +1,4 @@
-# car_bp_neteork
+# car_bp_network
 第二次作业
 汽车自动变速器最佳挡位判断的bp神经网络
 
